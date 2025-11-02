@@ -59,3 +59,4 @@ if __name__ == '__main__':
     t2 = time.time()
     print('Elapsed time: %3.1f' % (t2 - t1))
     print('Eigenvalues: ', lam)
+    print('Eigenvalues: ', lam)
